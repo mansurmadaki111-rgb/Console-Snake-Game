@@ -18,7 +18,7 @@ Controls
   
 - X → Exit the game  
 
-🧠 How It Works
+ How It Works
 
 The game uses:  
 
@@ -40,7 +40,7 @@ The game uses:
      
   4. Repeat until game over  
 
-⚙️ Game Features:
+ Game Features:
 
 - Live console display of snake and fruit
   
@@ -54,7 +54,7 @@ The game uses:
 
 
 
-💾 How To Run:
+ How To Run:
 
 1. Copy the code into a `.cpp` file, e.g., `snake.cpp`
    
